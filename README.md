@@ -1,2 +1,6 @@
 # private_src
 色々と練習用に書いたソースをコミットしていくためのリポジトリ
+
+# FirebasePracticeProject
+Firebaseを利用した簡単なiOSアプリ
+Swiftで実装
